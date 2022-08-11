@@ -7,7 +7,7 @@ describe('sample test', () => {
     cy.get('h1')
     .contains('Sepehr Haghighat');
   })
-  it('renders the Netlify logo image', () => {
+  it('renders the Bird image', () => {
     cy.get('img')
     .should('be.visible')
     .and(($img) => {
