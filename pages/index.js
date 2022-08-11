@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Sepehr Haghighat" />
         <p className="description">
-          "Welcome to my page!"
+         
         </p>
       </main>
 
