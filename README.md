@@ -5,7 +5,7 @@
 - HTML5 — page structure
 - CSS3 — responsive design and styling (no external frameworks)
 - JavaScript (vanilla) — mobile navigation toggle, dynamic year in footer
-- Favicon — multi-resolution .ico for cross-browser compatibility
+- Favicon — .ico for cross-browser compatibility
 - Hosting — deployed on Netlify
 
 ### License
