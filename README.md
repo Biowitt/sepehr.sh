@@ -8,5 +8,5 @@
 - Favicon — multi-resolution .ico for cross-browser compatibility
 - Hosting — deployed on Netlify
 
-# License
-## This repository contains my personal website. You may reference and copy the code, but please do not copy my personal information and present it as your own.
+### License
+#### This repository contains my personal website. You may reference and copy the code, but please do not copy my personal information and present it as your own.
